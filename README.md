@@ -1,4 +1,4 @@
-# Aplicativo de Sistema de Vendas
+# Aplicativo - WORKSHOP
 
 Este é um aplicativo desenvolvido em JavaFX para manipular um sistema de vendas. O aplicativo permite gerenciar entidades de vendedores e departamentos, onde cada vendedor está associado a um departamento específico. O projeto foi implementado utilizando os conceitos de Orientação a Objetos, expressões Lambda, JDBC e JavaFX.
 
